@@ -8,3 +8,22 @@ Create a C++ program that asks the user to enter their **first**, **middle**, an
 - Using `getline()` for full line input  
 - Concatenating and displaying strings  
 - Practicing clean console output
+
+
+### 🛠️ Language
+C++
+
+### 📚 Concepts Practiced
+- String handling  
+- Input/output formatting  
+- Basic user interaction
+
+---
+
+### 💬 Feedback
+Suggestions and improvements are always welcome!  
+Let's keep building and learning — one challenge at a time.
+
+---
+
+#Cpp #Programming #Algorithms #LearnToCode #ProblemSolving #CodeNewbie #BuildInPublic #CppProgramming #100DaysOfCode
